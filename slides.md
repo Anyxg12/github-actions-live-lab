@@ -21,7 +21,7 @@ drawings:
 
 <div class="hero-sub">El trabajo que ocurre después de un cambio</div>
 <div class="hero-line">Una presentación que se comprueba y se publica sola.</div>
-<div class="authors">Antony Guallasamin</div>
+<div class="authors">Antony Guallasamin · Jean Quishpe</div>
 <div class="hero-aside">CAMBIAR<br><span>COMPROBAR</span><br>PUBLICAR</div>
 
 <!--
