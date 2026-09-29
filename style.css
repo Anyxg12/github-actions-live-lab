@@ -71,3 +71,4 @@
 
 .slidev-layout.demo-break h1 { font-size: 72px; line-height: 1.18; margin-top: 35px; }
 .slidev-layout.closing h1 { font-size: 70px; margin-top: 32px; }
+.slidev-layout.slidev-layout h1 + p { opacity: 1; }
