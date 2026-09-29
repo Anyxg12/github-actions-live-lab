@@ -3,7 +3,7 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "build": "slidev build diapositiva-inexistente.md",
+    "build": "slidev build",
     "dev": "slidev --open",
     "export": "slidev export"
   },
