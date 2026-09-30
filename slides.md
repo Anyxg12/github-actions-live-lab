@@ -20,7 +20,7 @@ drawings:
 # GitHub<br>Actions
 
 <div class="hero-sub">El trabajo que ocurre después de un cambio</div>
-<div class="hero-line">Una presentación que se comprueba y se publica sola.</div>
+<div class="hero-line">Una presentación</div>
 <div class="authors">Antony Guallasamin</div>
 <div class="hero-aside">CAMBIAR<br><span>COMPROBAR</span><br>PUBLICAR</div>
 
